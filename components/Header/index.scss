@@ -1,0 +1,20 @@
+@import '../../node_modules/react-progress-bar-plus/src/progress-bar.scss';
+
+
+.react-progress-bar-percent {
+  height: 3px;
+  background-image: linear-gradient(to right, #f75d68, #fa964d);
+  box-shadow: 0 0 10px #f75d68, 0 0 5px #f75d68;
+  transition: all 300ms ease;
+}
+
+.react-progress-bar-spinner-icon {
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+  border: solid 2px transparent;
+  border-top-color: #f75d68;
+  border-left-color: #f75d68;
+  border-radius: 50%;
+  animation: react-progress-spinner 400ms linear infinite;
+}
