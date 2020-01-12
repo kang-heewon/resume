@@ -1,6 +1,6 @@
 <img width="300" src="https://avatars0.githubusercontent.com/u/36758131" >
 
-[![HitCount](http://hits.dwyl.io/kang-heewon/RESUME.svg)](http://hits.dwyl.io/kang-heewon/RESUME)
+![HitCount](https://us.hidester.com/proxy.php?u=eJwBLgDR%2F3M6Mzg6ItIrZDlv1xTFnrC6jugEDODfUDOSYUebCuPxlfIHGnmucSWK9p6gIjva4xUx&b=7&f=norefer)
 
 - 강희원 (kang-heewon)
 - Email : heewon.dev@gmail.com
