@@ -73,6 +73,13 @@
 
 # Other Experience
 
+- 피플 V2
+
+  - 기간 : 2019.11 ~ 2020.01
+  - github : https://github.com/pple-link/pple2-front
+  - 프론트엔드 개발자로 참여해 버전 2 개발을 했습니다. SSR적용을 위해 Next.js를 사용했으며 PWA로 개발하여 모바일 앱을 대체할 수 있도록 하였습니다.
+  - Stack : React.js, Next.js, Redux,
+
 - 2019 공개 SW 컨트리뷰톤
 
   - 기간 : 2019.09.07 ~ 2019.10.19
