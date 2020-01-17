@@ -67,13 +67,19 @@
 
 # Other Experience
 
-- 시엘뮤직 V1
+- 2019 공개 SW 컨트리뷰톤
 
-  - 기간 : 2017.03 ~ 2018.04
-  - 유튜브 임베드 플레이어는 광고가 재생되지 않는다는 점을 활용해 무료 음악 스트리밍 서비스를 개발했습니다. 총 3명이 개발했으며 차트, 재생목록, 재생 등 핵심 기능을 구현했습니다.
-  - Stack : PHP, CodeIgniter, JQuery
+  - 기간 : 2019.09.07 ~ 2019.10.19
+  - webOS Open Source Edition 프로젝트에 참여해 개발 경험 향상을 위해 VScode Plugin을 제작하였습니다.
 
-  <img width="500" src="https://raw.githubusercontent.com/kang-heewon/resume/master/images/ciel_music_v1.png" >
+* BISS ( Blockchain based IoT Security System )
+
+  - 기간 : 2018.10
+  - Iot 펌웨어 업데이트 및 데이터 송수신시 변조 유무를 블록체인을 통해 확인했습니다. 총 3명의 팀원과 개발했으며 대시보드와 블록체인 연동 개발을 맡았습니다.
+  - Stack : React.js, Express, Flask, React Native
+  - 제주 블록체인 해커톤 우수상 (Klaytn Hackathon)
+
+  <img width="500" src="https://raw.githubusercontent.com/kang-heewon/resume/master/images/biss.png" >
 
 - 어서와, 커피는 처음이지? ( hello coffee )
 
@@ -83,23 +89,18 @@
 
   <img width="500" src="https://raw.githubusercontent.com/kang-heewon/resume/master/images/hello_coffee.png" >
 
-- BISS ( Blockchain based IoT Security System )
+* 덕소고등학교 거꾸로 수업 플랫폼
 
-  - 기간 : 2018.10
-  - Iot 펌웨어 업데이트 및 데이터 송수신시 변조 유무를 블록체인을 통해 확인했습니다. 총 3명의 팀원과 개발했으며 대시보드와 블록체인 연동 개발을 맡았습니다.
-  - Stack : React.js, Express, Flask, React Native
-  - 제주 블록체인 해커톤 우수상 (Klaytn Hackathon)
-
-  <img width="500" src="https://raw.githubusercontent.com/kang-heewon/resume/master/images/biss.png" >
-
-- 2019 공개 SW 컨트리뷰톤
-
-  - 기간 : 2019.09.07 ~ 2019.10.19
-  - webOS Open Source Edition 프로젝트에 참여해 개발 경험 향상을 위해 VScode Plugin을 제작하였습니다.
-
-- 덕소고등학교 거꾸로 수업 플랫폼
   - 기간 : 2017.12 ~ 2018.12
   - 덕소고등학교에서 진행하는 영상을 활용하는 수업 방식인 거꾸로 수업 플랫폼을 개발하였습니다. React Native를 활용해 Android, Ios 앱을 개발하였고, 영상 스트리밍(vod) 서버와 교사와 학생용 학습 관리 시스템을 개발하였습니다.
+
+* 시엘뮤직 V1
+
+  - 기간 : 2017.03 ~ 2018.04
+  - 유튜브 임베드 플레이어는 광고가 재생되지 않는다는 점을 활용해 무료 음악 스트리밍 서비스를 개발했습니다. 총 3명이 개발했으며 차트, 재생목록, 재생 등 핵심 기능을 구현했습니다.
+  - Stack : PHP, CodeIgniter, JQuery
+
+  <img width="500" src="https://raw.githubusercontent.com/kang-heewon/resume/master/images/ciel_music_v1.png" >
 
 # Education
 
