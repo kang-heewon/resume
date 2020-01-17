@@ -12,6 +12,44 @@
 
 누군가의 지시를 받아 일하기보다는 스스로 해야할 일을 찾을 수 있는 분위기를 선호합니다.
 
+# Skills
+
+- PHP
+
+  - Laravel
+  - Code Igniter
+  - PSR-2
+
+- Javascript
+
+  - Typescript
+  - React
+  - Redux
+  - Vue
+  - Vuex
+  - Express
+
+- Python
+
+  - flask
+
+- Database
+
+  - Mysql
+  - Postgresql
+  - Mongodb
+
+- Deploy
+
+  - AWS EC2
+  - GCP APP
+
+- Devops
+
+  - Travis CI
+  - AWS CodeDeploy
+  - Github, Gitlab
+
 # Work Experience
 
 - 파인스터디
