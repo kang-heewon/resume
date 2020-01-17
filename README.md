@@ -66,9 +66,9 @@
   - Stack: Typescript, React, Next, Redux, Express, Mongodb, Github
 
 - 스플릿즈
-  - CEO
+  - 대표
   - 기간 : 2019.03 - 2019.12
-  - 오픈스택과 docker, Kubernetes 등을 활용해 100% 자동화된 배포 시스템을 구축했습니다.
+  - 오픈스택과 docker, Kubernetes 등을 활용해 100% 자동화된 배포 시스템을 구축했습니다. 사용자용 콘솔, API서버, 관리자용 콘솔을 개발하였습니다.
   - Stack: Typescript, Vue, Vuex, PHP, Laravel, Flask
 
 # Other Experience
