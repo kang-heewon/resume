@@ -39,6 +39,12 @@
   - Postgresql
   - Mongodb
 
+- Blockchain
+
+  - Ethereum
+  - Klaytn
+  - WaykiChain
+
 - Deploy
 
   - AWS EC2
