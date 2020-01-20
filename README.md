@@ -3,10 +3,12 @@
 ![HitCount](https://hits.heewon.dev/kang-heewon/RESUME.svg)
 
 - 강희원 (kang-heewon)
+- 생년월일 : 2000.10.25
+- 병역여부 : 보충역(산업기능요원 신청 예정)
 - Email : heewon.dev@gmail.com
 - Github : [github.com/kang-heewon](https://github.com/kang-heewon)
 
-풀스택 웹 개발자로 일하고 있는 강희원입니다.
+12살 개발을 시작해 풀스택 웹 개발자로 일하고 있는 강희원입니다.
 
 아이디어가 생기면 만드는것을 좋아하며 사용하는 유저를 고려한 서비스를 만들기 위해 노력중입니다.
 
