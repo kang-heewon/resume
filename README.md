@@ -89,6 +89,14 @@
   - 기간 : 2019.09.07 ~ 2019.10.19
   - webOS Open Source Edition 프로젝트에 참여해 개발 경험 향상을 위해 VScode Plugin을 제작하였습니다.
 
+* Forte
+
+  - 기간 : 2019.07 ~
+  - 유튜브 임베드 플레이어는 광고가 재생되지 않는다는 점을 활용해 무료 음악 스트리밍 서비스를 개발했습니다. 총 3명이 개발했으며 차트, 재생목록, 재생 등 핵심 기능을 구현했습니다.
+  - Stack : PHP, Laravel, Maraidb, AWS EC2, AWS RDS
+
+  <img width="500" src="https://raw.githubusercontent.com/kang-heewon/resume/master/images/forte.png" >
+
 * BISS ( Blockchain based IoT Security System )
 
   - 기간 : 2018.10
