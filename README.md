@@ -129,6 +129,13 @@
 
   <img width="500" src="https://raw.githubusercontent.com/kang-heewon/resume/master/images/ciel_music_v1.png" >
 
+# Certification
+
+정보처리기능사
+
+- 발급 기관 : 한국산업인력공단
+- 합격 날짜 : 2019.11.07
+
 # Education
 
 아주대학교 소프트웨어학과 ( 2019.03 ~ )
