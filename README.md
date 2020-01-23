@@ -92,7 +92,7 @@
 * Forte
 
   - 기간 : 2019.07 ~
-  - 유튜브 임베드 플레이어는 광고가 재생되지 않는다는 점을 활용해 무료 음악 스트리밍 서비스를 개발했습니다. 총 3명이 개발했으며 차트, 재생목록, 재생 등 핵심 기능을 구현했습니다.
+  - 팀 크레센도에 소속되어 Xsolla라는 PG를 연동해 아이템 스토어를 구현하였습니다. 디스코드 게임 내에서 활용 가능한 아이템을 구매하거나 포인트를 지급 받을 수 있는 등의 기능을 개발하였습니다. 스토어와 연동되는 봇을 개발하여 봇을 통하여 출석체크 이벤트를 진행할 수 있도록 개발하였습니다. PHP언어를 사용하였으며 PSR-2 문법을 적용하였습니다.
   - Stack : PHP, Laravel, Maraidb, AWS EC2, AWS RDS
 
   <img width="500" src="https://raw.githubusercontent.com/kang-heewon/resume/master/images/forte.png" >
