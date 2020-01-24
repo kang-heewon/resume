@@ -1,6 +1,6 @@
 <img width="300" src="https://avatars0.githubusercontent.com/u/36758131" >
 
-![HitCount](https://hits.heewon.dev/hits/da827965-7539-4dd5-9ca1-2893d46295de)
+![HitCount](https://tools.heewon.dev/hits/da827965-7539-4dd5-9ca1-2893d46295de)
 
 - 강희원 (kang-heewon)
 - 생년월일 : 2000.10.25
@@ -14,7 +14,7 @@
 
 누군가의 지시를 받아 일하기보다는 스스로 해야할 일을 찾을 수 있는 분위기를 선호합니다.
 
-![github](https://hits.heewon.dev/contribution/github/kang-heewon)
+![github](https://tools.heewon.dev/contribution/github/kang-heewon)
 
 # Skills
 
