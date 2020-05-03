@@ -20,36 +20,23 @@
 
 # Skills
 
-- PHP
-
-  - Laravel
-  - Code Igniter
-  - PSR-2
-
 - Javascript
 
   - Typescript
   - React
   - Redux
-  - Vue
-  - Vuex
   - Express
+ 
+- PHP
 
-- Python
-
-  - flask
+  - Laravel
+  - PSR-2
 
 - Database
 
   - Mysql
   - Postgresql
   - Mongodb
-
-- Blockchain
-
-  - Ethereum
-  - Klaytn
-  - WaykiChain
 
 - Deploy
 
@@ -63,6 +50,9 @@
   - Github, Gitlab
 
 # Work Experience
+- 클래스101
+  - Software Engineer
+  - 기간 : 2020.3 - 재직중 
 
 - 파인스터디
 
