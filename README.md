@@ -1,7 +1,5 @@
 <img width="300" src="https://avatars0.githubusercontent.com/u/36758131" >
 
-![HitCount](https://tools.heewon.dev/hits/da827965-7539-4dd5-9ca1-2893d46295de)
-
 - 강희원 (kang-heewon)
 - 생년월일 : 2000.10.25
 - 병역여부 : 보충역(산업기능요원 신청 예정)
@@ -10,11 +8,9 @@
 
 세상을 바꿀 수 있는 서비스를 만드는 것을 좋아합니다.
 
-완벽함을 추구하느라 고객을 늦게 만나는 것보다는 핵심 가치를 담은 제품을 만들고 점진적으로 발전시키기를 추구합니다.
+사용자 경험을 지키면서 비즈니스도 성공할 수 있는 제품을 만들고 싶습니다.
 
 자신이 맡은 일에 대해 깊게 고민하고 자신이 줄 수 있는 임팩트에 대해 고민하는 동료들과 일하고 싶습니다.
-
-![github](https://tools.heewon.dev/contribution/github/kang-heewon)
 
 # Skills
 
@@ -23,12 +19,14 @@
   - Typescript
   - React
   - Redux
+  - Apollo
   - Express
- 
-- PHP
-
-  - Laravel
-  - PSR-2
+  - Nest.js
+  
+- Java
+  - Spring
+  - JPA
+  - Lombok
 
 - Database
 
@@ -36,21 +34,21 @@
   - Postgresql
   - Mongodb
 
-- Deploy
-
-  - AWS EC2
-  - GCP APP
-
 - Devops
 
-  - Travis CI
+  - Jenkins
   - AWS CodeDeploy
   - Github, Gitlab
 
 # Work Experience
 - 클래스101
   - Software Engineer
-  - 기간 : 2020.3 - 재직중 
+  - 기간 : 2020.3 - 재직중
+  - Stack: Typescript, React, Apollo, Graphql, Java, Spring
+  - Signature cell과 Subscription TF에서 개발을 진행했습니다.
+  - 시그니처 제품 퍼널 개선
+  - 구독 서비스 개발(Signature+, Money+, WEC, Libre)
+  - 
 
 - 파인스터디
 
