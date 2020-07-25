@@ -48,19 +48,16 @@
   - Signature cell과 Subscription TF에서 개발을 진행했습니다.
   - 시그니처 제품 퍼널 개선
   - 구독 서비스 개발(Signature+, Money+, WEC, Libre)
-  - 
-
-- 파인스터디
-
-  - Full Stack Developer
-  - 기간 : 2019.08 - 2019.10
-  - 인강들을 통합 검색할 수 있는 검색엔진과 해당 인강들을 결제할 수 있는 커머스 시스템을 개발하였습니다.
-  - Stack: Typescript, React, Next, Redux, Express, Mongodb, Github
+  - 팀원들의 번호를 쉽게 찾을 수 있는 슬랙봇, 팀원들이 더 마니또에 참여할 수 있도록 만든 마니또 봇, 유저가 미션에 참여하는 실시간 현황 대시보드 등의 사내 프로젝트를 진행했습니다.
+  - 유저 데이터 분석하고 해당 데이터를 활용해 SMS, Push 메시지 발송 등의 CRM 액션을 위한 DataZ 프로젝트를 진행했습니다.
+  - cypress기반 E2E 프로젝트에 참여해 실제 배포과정에 포함시켜 QA 진행시 전체적인 유저 플로우를 체크해 장애를 줄이도록 했습니다.
 
 - 스플릿즈
   - 대표
-  - 기간 : 2019.03 - 2019.12
-  - 오픈스택과 docker, Kubernetes 등을 활용해 100% 자동화된 배포 시스템을 구축했습니다. 사용자용 콘솔, API서버, 관리자용 콘솔을 개발하였습니다.
+  - 기간 : 2019.08 - 2020.03
+  - Docker, Kubernetes 등을 활용해 자동화된 배포 시스템을 구축해 B2B 사업을 진행하였습니다.
+  - netlify를 사용해 본 후 배포의 극단적인 편의성을 느껴 가장 간단하고 간편한 Enterprise 배포 시스템을 만들고자 하였습니다.
+  - MSA, 방화벽, Jenkins, E2E Test, Routing, Auto Scailing, DB, Storage 등 다양한 분야를 Auto Setup해주는 방향으로 개발하였습니다.
   - Stack: Typescript, Vue, Vuex, PHP, Laravel, Flask
 
 # Other Experience
