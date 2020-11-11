@@ -18,7 +18,8 @@
 
   - Typescript
   - React
-  - Redux
+  - Recoil
+  - Next.js
   - Apollo
   - Express
   - Nest.js
@@ -31,13 +32,13 @@
 - Database
 
   - Mysql
-  - Postgresql
+  - Redis
   - Mongodb
 
 - Devops
 
   - Jenkins
-  - AWS CodeDeploy
+  - AWS
   - Github, Gitlab
 
 # Work Experience
