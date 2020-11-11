@@ -43,7 +43,7 @@
 # Work Experience
 - 클래스101
   - Software Engineer
-  - 기간 : 2020.3 - 재직중
+  - 기간 : 2020.3 - 2020.10
   - Stack: Typescript, React, Apollo, Graphql, Java, Spring
   - Signature cell과 Subscription TF에서 개발을 진행했습니다.
   - 시그니처 제품 퍼널 개선
