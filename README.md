@@ -25,9 +25,9 @@
   - Nest.js
   
 - Java
+
   - Spring
   - JPA
-  - Lombok
 
 - Database
 
@@ -39,21 +39,21 @@
 
   - Jenkins
   - AWS
+  - Azure Devops
   - Github, Gitlab
 
 # Work Experience
-- 클래스101
-  - Software Engineer
+## 클래스101
+  - Frontend Developer
   - 기간 : 2020.3 - 2020.10
-  - Stack: Typescript, React, Apollo, Graphql, Java, Spring
   - Signature cell과 Subscription TF에서 개발을 진행했습니다.
-  - 시그니처 제품 퍼널 개선
-  - 구독 서비스 개발(Signature+, Money+, WEC, Libre)
-  - 팀원들의 번호를 쉽게 찾을 수 있는 슬랙봇, 팀원들이 더 마니또에 참여할 수 있도록 만든 마니또 봇, 유저가 미션에 참여하는 실시간 현황 대시보드 등의 사내 프로젝트를 진행했습니다.
-  - 유저 데이터 분석하고 해당 데이터를 활용해 SMS, Push 메시지 발송 등의 CRM 액션을 위한 DataZ 프로젝트를 진행했습니다.
-  - cypress기반 E2E 프로젝트에 참여해 실제 배포과정에 포함해 QA 진행 시 전체적인 유저 플로우를 체크해 장애를 줄이도록 했습니다.
+  
+  ### 시그니처 제품 개선
+  ### 구독 서비스 개발(Signature+, Money+, WEC, Libre)
+  ### 실시간 고객 참여율 대시보드
+  ### E2E 프로젝트
 
-- 스플릿즈
+## 스플릿즈
   - 대표
   - 기간 : 2019.08 - 2020.03
   - Docker, Kubernetes 등을 활용해 자동화된 배포 시스템을 구축해 B2B 사업을 진행하였습니다.
