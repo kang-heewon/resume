@@ -26,9 +26,18 @@
 - Cofounder
 - 기간 : 2020.10 - 2021.03
 
+- InternalX
+  -  사내 제품들을 Saas로 제공해 다양한 모듈을 연계해 Workspace에서 사용가능한 구조를 만들었습니다.
+  -  Document 모듈을 개발해 문서, 약관, 공시 정보 등을 개발자의 도움없이 제품에 반영할 수 있고, 버전관리가 가능하도록 구현했습니다.
+ 
 - [Featured](https://featured.team)
   - Nestjs, Nextjs를 활용해 개발했습니다.
   - PWA를 통해 웹 푸시 알림을 구현했습니다.
+- 피쳐드 챌린지
+  - featured 아티클을 공급하고 커뮤니티 파워를 만들기 위한 방법으로 챌린지를 운영했습니다.
+- HomeGround
+  - 익명 전문직 커뮤니티를 개발했습니다.
+
 
 ## 클래스101
 
@@ -57,39 +66,6 @@
 - netlify를 사용해 본 후 배포의 극단적인 편의성을 느껴 가장 간단하고 간편한 Enterprise 배포 시스템을 만들고자 하였습니다.
 - MSA, 방화벽, Jenkins, E2E Test, Routing, Auto Scailing, DB, Storage 등 다양한 분야를 Auto Setup해주는 방향으로 개발하였습니다.
 - Stack: Typescript, Vue, Vuex, PHP, Laravel, Flask
-
-# Skills
-
-- Javascript
-
-  - Typescript
-  - React
-  - Next.js
-  - Apollo
-  - Express
-  - Nest.js
-
-- Java
-
-  - Spring
-  - JPA
-
-- Python
-
-  - Django
-
-- Database
-
-  - Mysql
-  - Redis
-  - Mongodb
-
-- Devops
-
-  - Jenkins
-  - AWS
-  - Azure Devops
-  - Github, Gitlab
 
 # Other Experience
 
@@ -161,6 +137,39 @@
   - Stack : PHP, CodeIgniter, JQuery
 
   <img width="500" src="https://raw.githubusercontent.com/kang-heewon/resume/master/images/ciel_music_v1.png" >
+
+# Skills
+
+- Javascript
+
+  - Typescript
+  - React
+  - Next.js
+  - Apollo
+  - Express
+  - Nest.js
+
+- Java
+
+  - Spring
+  - JPA
+
+- Python
+
+  - Django
+
+- Database
+
+  - Mysql
+  - Redis
+  - Mongodb
+
+- Devops
+
+  - Jenkins
+  - AWS
+  - Azure Devops
+  - Github, Gitlab
 
 # Certification
 
