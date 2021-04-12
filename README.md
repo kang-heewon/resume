@@ -13,45 +13,50 @@
 # Work Experience
 
 ## 클래스101
-  - Fullstack Developer
-  - 기간 : 2021.03 ~ 현재 
-  ### OPS
-  - 코어 설계 및 컴포넌트 제작
-  
-  ### 인터널 셀 
-  - 인터널 시스템 구축 
+
+- Fullstack Developer
+- 기간 : 2021.03 ~ 현재
+  - OPS
+    - 코어 설계 및 컴포넌트 제작
+  - 인터널 셀
+    - 인터널 시스템 구축
 
 ## Onwave
-  - Cofounder
-  - 기간 : 2020.10 - 2021.03
-  
-  ### [Featured](https://featured.team)
+
+- Cofounder
+- 기간 : 2020.10 - 2021.03
+
+- [Featured](https://featured.team)
   - Nestjs, Nextjs를 활용해 개발했습니다.
   - PWA를 통해 웹 푸시 알림을 구현했습니다.
-  
+
 ## 클래스101
-  - Frontend Developer
-  - 기간 : 2020.3 - 2020.10
-  - Signature cell과 Subscription TF에서 개발을 진행했습니다.
-  
-  ### 시그니처 제품 개선
+
+- Frontend Developer
+- 기간 : 2020.3 - 2020.10
+- Signature cell과 Subscription TF에서 개발을 진행했습니다.
+
+- 시그니처 제품 개선
+
   - 히어로 배너 섹션에 영상을 미리 볼 수 있는 기능을 구현했습니다.
-  
-  ### 구독 서비스 개발(Signature+, Money+, WEC, Libre, Kids)
+
+- 구독 서비스 개발(Signature+, Money+, WEC, Libre, Kids)
+
   - Spring 서버 유지보수
   - 빠른 제품 런칭을 위해 개발자가 직접 만들던 랜딩페이지를 쉽게 구성할 수 있는 에디팅 기능 POC를 진행했습니다.
-  
-  ### 실시간 피드백 대시보드
+
+- 실시간 피드백 대시보드
   - Electron 을 통해 유저가 입력하는 피드백 데이터를 실시간으로 받아 처리했습니다.
   - Webhook을 통해 실시간으로 데이터를 받아 처리했습니다.
 
 ## 스플릿즈
-  - 대표
-  - 기간 : 2019.08 - 2020.03
-  - Docker, Kubernetes 등을 활용해 자동화된 배포 시스템을 구축해 B2B 사업을 진행하였습니다.
-  - netlify를 사용해 본 후 배포의 극단적인 편의성을 느껴 가장 간단하고 간편한 Enterprise 배포 시스템을 만들고자 하였습니다.
-  - MSA, 방화벽, Jenkins, E2E Test, Routing, Auto Scailing, DB, Storage 등 다양한 분야를 Auto Setup해주는 방향으로 개발하였습니다.
-  - Stack: Typescript, Vue, Vuex, PHP, Laravel, Flask
+
+- 대표
+- 기간 : 2019.08 - 2020.03
+- Docker, Kubernetes 등을 활용해 자동화된 배포 시스템을 구축해 B2B 사업을 진행하였습니다.
+- netlify를 사용해 본 후 배포의 극단적인 편의성을 느껴 가장 간단하고 간편한 Enterprise 배포 시스템을 만들고자 하였습니다.
+- MSA, 방화벽, Jenkins, E2E Test, Routing, Auto Scailing, DB, Storage 등 다양한 분야를 Auto Setup해주는 방향으로 개발하였습니다.
+- Stack: Typescript, Vue, Vuex, PHP, Laravel, Flask
 
 # Skills
 
@@ -63,13 +68,14 @@
   - Apollo
   - Express
   - Nest.js
-  
+
 - Java
 
   - Spring
   - JPA
 
 - Python
+
   - Django
 
 - Database
@@ -88,19 +94,21 @@
 # Other Experience
 
 - Team Croco
+
   - 기간 : 2020.02 ~ 현재
   - [개발 블로그](https://velog.io/@team_croco)
-  
-  ## Mywallets
-  - 기간: 2020.12 ~ 현재
-  - [개발기](https://velog.io/@team_croco/series/myWallets)
-  - Nextjs, Nestjs를 활용해 개발했습니다.
-  
-  ## 코로나인포
-  - 기간: 2020.02 ~ 2020.03
-  - [개발기](https://velog.io/@team_croco/series/coronas.info)
-  - Nextjs, Django를 활용해 개발했습니다.
 
+  - Mywallets
+
+    - 기간: 2020.12 ~ 현재
+    - [개발기](https://velog.io/@team_croco/series/myWallets)
+    - Nextjs, Nestjs를 활용해 개발했습니다.
+
+  - 코로나인포
+
+    - 기간: 2020.02 ~ 2020.03
+    - [개발기](https://velog.io/@team_croco/series/coronas.info)
+    - Nextjs, Django를 활용해 개발했습니다.
 
 - 피플 V2
 
