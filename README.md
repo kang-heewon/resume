@@ -16,9 +16,10 @@
 
 - Fullstack Developer
 - 기간 : 2021.03 ~ 현재
-  - OPS
-    - 코어 설계 및 컴포넌트 제작
+  - One Product System
+    - UI 라이브러리 코어 설계 및 컴포넌트 제작
   - 인터널 셀
+    - 프리 온보딩 프로세스 개발
     - 인터널 시스템 구축
 
 ## Onwave
