@@ -4,11 +4,11 @@
 - Email : heewon.dev@gmail.com
 - Github : [github.com/kang-heewon](https://github.com/kang-heewon)
 
-세상을 바꿀 수 있는 서비스를 만드는 것을 좋아합니다.
+세상에 불합리한 부분을 찾아 빠르게 도전하는 서비스를 좋아합니다.
 
-사용자 경험을 지키면서 비즈니스도 성공할 수 있는 제품을 만들고 싶습니다.
+사용자 경험을 혁신할 수 있는 비즈니스를 위해 제품을 만들고 싶습니다.
 
-자신이 맡은 일에 대해 깊게 고민하고 자신이 줄 수 있는 임팩트에 대해 고민하는 동료들과 일하고 싶습니다.
+성장에 대한 고민을 함께할 수 있는 동료와 함께하고 싶습니다.
 
 # Work Experience
 
@@ -17,7 +17,7 @@
 - Fullstack Developer
 - 기간 : 2021.03 ~ 현재
   - One Product System
-    - UI 라이브러리 코어 설계 및 컴포넌트 제작
+    - styled-system을 활용해 컴포넌트 개발
   - 인터널 셀
     - 프리 온보딩 프로세스 개발
     - 인터널 시스템 구축
@@ -28,9 +28,10 @@
 - 기간 : 2020.10 - 2021.03
 
 - InternalX
-  -  사내 제품들을 Saas로 제공해 다양한 모듈을 연계해 Workspace에서 사용가능한 구조를 만들었습니다.
-  -  Document 모듈을 개발해 문서, 약관, 공시 정보 등을 개발자의 도움없이 제품에 반영할 수 있고, 버전관리가 가능하도록 구현했습니다.
- 
+
+  - 사내 제품들을 Saas로 제공해 다양한 모듈을 연계해 Workspace에서 사용가능한 구조를 만들었습니다.
+  - Document 모듈을 개발해 문서, 약관, 공시 정보 등을 개발자의 도움없이 제품에 반영할 수 있고, 버전관리가 가능하도록 구현했습니다.
+
 - [Featured](https://featured.team)
   - Nestjs, Nextjs를 활용해 개발했습니다.
   - PWA를 통해 웹 푸시 알림을 구현했습니다.
@@ -38,7 +39,6 @@
   - featured 아티클을 공급하고 커뮤니티 파워를 만들기 위한 방법으로 챌린지를 운영했습니다.
 - HomeGround
   - 익명 전문직 커뮤니티를 개발했습니다.
-
 
 ## 클래스101
 
@@ -55,7 +55,7 @@
   - Spring 서버 유지보수
   - 빠른 제품 런칭을 위해 개발자가 직접 만들던 랜딩페이지를 쉽게 구성할 수 있는 에디팅 기능 POC를 진행했습니다.
 
-- 실시간 피드백 대시보드
+- 실시간 유저 피드백 대시보드
   - Electron 을 통해 유저가 입력하는 피드백 데이터를 실시간으로 받아 처리했습니다.
   - Webhook을 통해 실시간으로 데이터를 받아 처리했습니다.
 
@@ -105,16 +105,12 @@
   - 팀 크레센도에 소속되어 Xsolla라는 PG를 연동해 아이템 스토어를 구현하였습니다. 디스코드 게임 내에서 활용 가능한 아이템을 구매하거나 포인트를 지급 받을 수 있는 등의 기능을 개발하였습니다. 스토어와 연동되는 봇을 개발하여 봇을 통하여 출석체크 이벤트를 진행할 수 있도록 개발하였습니다. PHP언어를 사용하였으며 PSR-2 문법을 적용하였습니다. 중복 결제 이슈가 발생하여 결제를 진행하는 부분의 코드를 원자적으로 실행하도록 개발하여 해결했습니다.
   - Stack : PHP, Laravel, Maraidb, AWS EC2, AWS RDS
 
-  <img width="500" src="https://raw.githubusercontent.com/kang-heewon/resume/master/images/forte.png" >
-
 * BISS ( Blockchain based IoT Security System )
 
   - 기간 : 2018.10
   - Iot 펌웨어 업데이트 및 데이터 송수신시 변조 유무를 블록체인을 통해 확인했습니다. 총 3명의 팀원과 개발했으며 대시보드와 블록체인 연동 개발을 맡았습니다. Klaytn 해커톤에서 개발해서 수상도 하게되었습니다.
   - Stack : React.js, Express, Flask, React Native
   - 제주 블록체인 해커톤 우수상 (Klaytn Hackathon)
-
-  <img width="500" src="https://raw.githubusercontent.com/kang-heewon/resume/master/images/biss.png" >
 
 - 어서와, 커피는 처음이지? ( hello coffee )
 
@@ -144,20 +140,13 @@
 - Javascript
 
   - Typescript
-  - React
-  - Next.js
-  - Apollo
-  - Express
-  - Nest.js
+  - React, Next.js
+  - Nest.js, Express, Apollo
 
 - Java
 
   - Spring
   - JPA
-
-- Python
-
-  - Django
 
 - Database
 
